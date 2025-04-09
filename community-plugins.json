@@ -16343,5 +16343,12 @@
     "author": "Ankit Kapur",
     "description": "Automatically updates a 'status' property in a note when its card is moved on a Kanban board",
     "repo": "ankit-kapur/obsidian-kanban-status-updater-plugin"
+},
+{
+  "id": "pdf2markdown-obsidian",
+  "name": "PDF2Markdown",
+  "author": "CAPELLE Gabin",
+  "description": "Convert PDF to Markdown by (MISTRAL OCR MODEL)",
+  "repo": "CapelleGab/obsidian-pdf2markdown"
 }
 ]
